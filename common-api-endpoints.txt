@@ -1,0 +1,5 @@
+ping
+auth
+booking
+booking/1
+healthcheck
