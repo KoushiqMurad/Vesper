@@ -40,7 +40,7 @@ Vesper is designed to be simple to set up.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/KoushiqMurad/vesper.git](https://github.com/KoushiqMurad/vesper.git)
+    git clone [https://github.com/KoushiqMurad/vesper.git]
     cd vesper
     ```
 
