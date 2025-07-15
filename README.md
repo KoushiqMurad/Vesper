@@ -1,8 +1,8 @@
 <div align="center">
 
 ```
-
-# \============================================================ V  E  S  P  E  R An API Security Recon & Exploitation Toolkit by Koushiq Murad
+============================================================
+V  E  S  P  E  R An API Security Recon & Exploitation Toolkit by Koushiq Murad
 
 ````
 </div>
